@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1016755565020",
+    "project_id": "streamer-10e8d",
+    "storage_bucket": "streamer-10e8d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016755565020:android:aa77ed7b5935a7944a9f19",
+        "android_client_info": {
+          "package_name": "com.jagteshwar.streamer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLMJrqb8S9tV_ZflZCKpYqazkNlCmqYvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
